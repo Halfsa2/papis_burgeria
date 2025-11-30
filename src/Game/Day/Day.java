@@ -63,6 +63,9 @@ public class Day implements Serializable {
     public void setCurrentCustomer(Customer currentCustomer) {
         this.currentCustomer = currentCustomer;
     }
+    public List<Burger> getBurgers(){
+        return burgers;
+    }
     public Customer getCustomer(int i){
         return customers.get(i);
     }

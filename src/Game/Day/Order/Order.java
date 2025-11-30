@@ -51,6 +51,7 @@ public class Order implements Serializable {
             }
         }
     }
+    //TODO: maybe ha magasabb a burger akkor levonhatnánk pontot
     public int compareBurgerToOrder(Burger burgerToCompare){
         List<Component> thisComponents = this.burger.getComponents();
         List<Component> otherComponents = burgerToCompare.getComponents();
@@ -76,4 +77,5 @@ public class Order implements Serializable {
     public int getDifficulty() {
         return difficulty;
     }
+
 }
