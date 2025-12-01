@@ -1,7 +1,7 @@
-package Game.Day;
+package Day;
 
 import Customer.Customer;
-import Game.Day.Burger.Burger;
+import Burger.Burger;
 
 import java.io.Serializable;
 import java.util.ArrayList;

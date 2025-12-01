@@ -1,9 +1,9 @@
 package UserInterface.Game;
 
 import UserInterface.Window.Window;
-import Game.Day.Burger.Burger;
+import Burger.Burger;
 import Customer.Customer;
-import Game.Day.Order.Order;
+import Order.Order;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

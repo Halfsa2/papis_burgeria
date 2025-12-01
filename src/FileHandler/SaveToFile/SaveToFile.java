@@ -1,10 +1,7 @@
 package FileHandler.SaveToFile;
 
 import FileHandler.LoadFromFile.LoadFromFile;
-import Game.Day.Day;
 import Game.Game;
-import Customer.Customer;
-import Component.Component;
 
 import java.io.File;
 import java.io.FileOutputStream;

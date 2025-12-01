@@ -1,4 +1,4 @@
-package Game.Day.Burger;
+package Burger;
 
 import Component.Component;
 import Component.Bun;

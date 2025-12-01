@@ -4,11 +4,10 @@ import Customer.Customer;
 import UserInterface.Game.BurgerAssembler.BurgerDisplayer;
 import UserInterface.Game.ContinueBtn;
 import UserInterface.Window.Window;
-import Game.Day.Burger.Burger;
+import Burger.Burger;
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.ActionEvent;
 
 public class GradeBurgerUI extends JLayeredPane {
     Burger burger;

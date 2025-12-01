@@ -1,9 +1,8 @@
 package UserInterface.Game.BurgerAssembler;
 
 import Component.Component;
-import Component.Bun;
 import Component.Patty;
-import Game.Day.Burger.Burger;
+import Burger.Burger;
 
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;

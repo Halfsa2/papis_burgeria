@@ -1,6 +1,6 @@
 package UserInterface.Game.Customer.Order;
 
-import Game.Day.Order.Order;
+import Order.Order;
 
 import javax.swing.*;
 import javax.swing.border.TitledBorder;

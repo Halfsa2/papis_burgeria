@@ -1,7 +1,8 @@
 package Game.Day;
 
 import Customer.Customer;
-import Game.Day.Burger.Burger;
+import Burger.Burger;
+import Day.Day;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

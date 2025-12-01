@@ -2,7 +2,6 @@ package UserInterface.Window;
 
 import FileHandler.SaveToFile.SaveToFile;
 import Game.Game;
-import Game.Day.Order.Order;
 import UserInterface.Game.BurgerAssembler.AssembleBurgerUI;
 import UserInterface.Game.CookingStation.CookingStationUI;
 import UserInterface.Game.Customer.GradeBurger.GradeBurgerUI;
@@ -12,8 +11,7 @@ import UserInterface.Game.NewDay.NewDayUI;
 import UserInterface.LoadGame.LoadGameUI;
 import UserInterface.Menu.MenuUI;
 import Component.Patty;
-import Game.Day.Burger.Burger;
-import Customer.Customer;
+import Burger.Burger;
 
 
 import javax.swing.*;

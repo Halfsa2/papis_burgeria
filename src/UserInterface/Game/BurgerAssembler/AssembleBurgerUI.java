@@ -8,7 +8,6 @@ import Component.Lettuce;
 import Component.Onion;
 import Component.Pickle;
 import Component.Tomato;
-import Game.Day.Burger.Burger;
 import UserInterface.Game.ContinueBtn;
 import UserInterface.Window.Window;
 

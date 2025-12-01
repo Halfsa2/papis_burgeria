@@ -2,7 +2,8 @@ package Game.Day.Order;
 
 import Component.Component;
 import Component.Bun;
-import Game.Day.Burger.Burger;
+import Burger.Burger;
+import Order.Order;
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;

@@ -1,6 +1,6 @@
 package Customer;
 
-import Game.Day.Order.Order;
+import Order.Order;
 
 import javax.swing.*;
 import java.io.Serializable;

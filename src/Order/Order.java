@@ -1,6 +1,6 @@
-package Game.Day.Order;
+package Order;
 
-import Game.Day.Burger.Burger;
+import Burger.Burger;
 import Component.*;
 
 import java.io.Serializable;

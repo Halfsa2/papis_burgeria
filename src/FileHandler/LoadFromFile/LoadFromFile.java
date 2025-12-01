@@ -1,8 +1,6 @@
 package FileHandler.LoadFromFile;
 
-import Component.Component;
-import Customer.Customer;
-import Game.Day.Day;
+import Day.Day;
 import Game.Game;
 
 import java.io.File;

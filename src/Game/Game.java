@@ -1,6 +1,6 @@
 package Game;
 
-import Game.Day.Day;
+import Day.Day;
 import Upgrade.Upgrade;
 
 import java.io.Serializable;

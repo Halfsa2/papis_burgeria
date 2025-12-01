@@ -1,6 +1,6 @@
 package Game;
 
-import Game.Day.Day;
+import Day.Day;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
