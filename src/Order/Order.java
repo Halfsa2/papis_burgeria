@@ -10,9 +10,9 @@ import java.util.Random;
 
 public class Order implements Serializable {
     private final Burger burger;
-    //1 = easy - 3 components
-    //2 = medium - 5 components
-    //3 = hard - 7 components
+    //1 = easy - 2 components
+    //2 = medium - 4 components
+    //3 = hard - 6 components
     private final int difficulty;
     public Order(int difficulty) {
         this.difficulty = difficulty;

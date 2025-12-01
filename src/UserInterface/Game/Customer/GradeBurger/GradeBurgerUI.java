@@ -59,14 +59,14 @@ public class GradeBurgerUI extends JLayeredPane {
 
         this.add(gradePanel,DRAG_LAYER);
     }
-    public void labelSetup(){
+    protected void labelSetup(){
         profitLabel = new JLabel("+ " + profit+"$");
         profitLabel.setForeground(Color.green);
         profitLabel.setPreferredSize(new Dimension(200,50));
         profitLabel.setFont(profitLabel.getFont().deriveFont(Font.BOLD,30));
         //profitLabel.setBorder(BorderFactory.createLineBorder(Color.RED, 3));
     }
-    public void burgerSetup(){
+    protected void burgerSetup(){
         burgerDisplayer = new BurgerDisplayer(window, burger);
         burgerDisplayer.setBorder(BorderFactory.createEmptyBorder(0,0,100,0));
     }

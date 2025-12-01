@@ -53,7 +53,7 @@ public class AssembleBurgerUI extends JPanel {
         this.add(continueBtnPanel, BorderLayout.SOUTH);
 
     }
-    public void loadComponents() {
+    protected void loadComponents() {
         components = new Component[6];
         components[0] = new Bun(true);
         components[1] = new Cheese();
